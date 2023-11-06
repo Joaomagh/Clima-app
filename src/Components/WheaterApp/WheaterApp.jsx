@@ -86,7 +86,7 @@ const WheaterApp = () => {
             <img src={humidity_icon} alt="" className="icon" />
             <div className="data">
               <div className="humidity-percent">64%</div>
-              <div className="text">humidity</div>
+              <div className="text">Humidade</div>
             </div>
           </div>
           <div className="element">
